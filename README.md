@@ -1,2 +1,2 @@
 # TennisGame
-Tennis Game made withHTML and JS
+Tennis Game made with HTML and JS
